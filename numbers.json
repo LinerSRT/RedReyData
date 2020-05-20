@@ -1,0 +1,228 @@
+[{
+  "name":"Глава ЛНР",
+  "category":1,
+  "category_description":"Горячая линия",
+  "description":"none",
+  "numbers":[
+    {
+      "number":"(0642)58-19-88"
+    }
+    ]
+},
+{
+  "name":"Глава администрации г. Красный Луч",
+  "category":1,
+  "category_description":"Горячая линия",
+  "description":"none",
+  "numbers":[
+    {
+      "number":"(0642)58-16-77"
+    }
+    ]
+},
+{
+  "name":"Диспетчерская служба",
+  "category":1,
+  "category_description":"Горячая линия",
+  "description":"none",
+  "numbers":[
+    {
+      "number":"(072)160-45-05"
+    },
+    {
+      "number":"2-00-29"
+    },
+    {
+      "number":"2-31-50"
+    }
+    ]
+},
+{
+  "name":"Отдел по обращениям граждан",
+  "category":1,
+  "category_description":"Горячая линия",
+  "description":"none",
+  "numbers":[
+    {
+      "number":"2-00-03"
+    }
+    ]
+},
+{
+  "name":"Отдел противодействия коррупции",
+  "category":2,
+  "category_description":"Правопорядок",
+  "description":"none",
+  "numbers":[
+    {
+      "number":"(072)148-30-08"
+    },
+    {
+      "number":"(0642)50-92-62"
+    }
+    ]
+},
+{
+  "name":"Генпрокуратура ЛНР",
+  "category":2,
+  "category_description":"Правопорядок",
+  "description":"none",
+  "numbers":[
+    {
+      "number":"(0642)58-12-57"
+    },
+    {
+      "number":"(0642)53-72-38"
+    }
+    ]
+},
+{
+  "name":"МГБ ЛНР",
+  "category":2,
+  "category_description":"Правопорядок",
+  "description":"none",
+  "numbers":[
+    {
+      "number":"mgb.lnr@yandex.ru"
+    }
+    ]
+},
+{
+  "name":"Военная комендатура",
+  "category":2,
+  "category_description":"Правопорядок",
+  "description":"none",
+  "numbers":[
+    {
+      "number":"2-66-60"
+    },
+    {
+      "number":"(072)105-16-95"
+    }
+    ]
+},
+{
+  "name":"Краснолучский ГПСО МЧС ЛНР",
+  "category":3,
+  "category_description":"Экстренные службы",
+  "description":"none",
+  "numbers":[
+    {
+      "number":"101"
+    },
+    {
+      "number":"2-02-25"
+    },
+    {
+      "number":"(072)103-13-66"
+    },
+    {
+      "number":"(050)706-76-94"
+    }
+    ]
+},
+{
+  "name":"Городской отдел полиции",
+  "category":3,
+  "category_description":"Экстренные службы",
+  "description":"none",
+  "numbers":[
+    {
+      "number":"102"
+    },
+    {
+      "number":"2-02-27"
+    },
+    {
+      "number":"(072)105-07-56"
+    }
+    ]
+},
+{
+  "name":"Скорая медицинская помощь",
+  "category":3,
+  "category_description":"Экстренные службы",
+  "description":"none",
+  "numbers":[
+    {
+      "number":"103"
+    },
+    {
+      "number":"3-87-31"
+    },
+    {
+      "number":"(072)111-59-72"
+    },
+    {
+      "number":"(066)057-72-34"
+    }
+    ]
+},
+{
+  "name":"Служба газа",
+  "category":3,
+  "category_description":"Экстренные службы",
+  "description":"none",
+  "numbers":[
+    {
+      "number":"104"
+    },
+    {
+      "number":"2-81-75"
+    },
+    {
+      "number":"(072)105-30-37"
+    },
+    {
+      "number":"(050)225-73-18"
+    }
+    ]
+},
+{
+  "name":"“ЛУГАНСКВОДА”",
+  "category":4,
+  "category_description":"Полезные телефоны",
+  "description":"none",
+  "numbers":[
+    {
+      "number":"2-64-60"
+    }
+    ]
+},
+{
+  "name":"ОО “ЛУГАНСКИЕ ЭЛЕКТРИЧЕСКИЕ СЕТИ”",
+  "category":4,
+  "category_description":"Полезные телефоны",
+  "description":"none",
+  "numbers":[
+    {
+      "number":"2-46-10"
+    },
+    {
+      "number":"(072)108-57-56"
+    }
+    ]
+},
+{
+  "name":"ОО “ЧИСТЫЙ ГОРОД ЭКО-ГРУПП”",
+  "category":4,
+  "category_description":"Полезные телефоны",
+  "description":"none",
+  "numbers":[
+    {
+      "number":"2-13-55"
+    }
+    ]
+},
+{
+  "name":"Справочная",
+  "category":4,
+  "category_description":"Полезные телефоны",
+  "description":"none",
+  "numbers":[
+    {
+      "number":"109"
+    }
+    ]
+}
+]
